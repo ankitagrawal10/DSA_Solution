@@ -1,0 +1,1 @@
+ // cout<<countsubstring(str);
